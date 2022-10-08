@@ -1,0 +1,16 @@
+.main-div {
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.text-div {
+    /* text-align: center; */
+    margin-right:30px ;
+    width: 50%;
+    text-align: start;
+}
+
+.image-div {
+   margin-left: 90px;
+}
