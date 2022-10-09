@@ -89,7 +89,7 @@ const Test = () => {
                                         <img src={item.image} class="max-w-sm rounded-lg shadow-2xl image-div" />
                                     </div>
                                     <div className='text-div'>
-                                        <h1 class="lg:text-2xl font-bold genre">{item.genre}</h1>
+                                        <h1 class="lg:text-2xl font-bold genre mb-4">{item.genre}</h1>
                                         <h1 class="lg:text-4xl font-bold">{item.name}</h1>
                                         <p class="py-6">{item.details}</p>
                                         <h1 class="lg:text-3xl font-bold mb-5">{item.release}</h1>
